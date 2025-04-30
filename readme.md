@@ -6,6 +6,7 @@
 - [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code?tab=readme-ov-file) - coding articles to level up your development skills
 - [Web animation performance fundamentals](https://www.freecodecamp.org/news/web-animation-performance-fundamentals/)
 - [Useful resources for becoming a ninja fullstack developer!](https://github.com/FullstackAcademy/useful-resources)
+- [Software Engineering at Google](https://abseil.io/resources/swe-book)
 
 ## Javascript
 
