@@ -14,5 +14,6 @@
 
 ## React
 
+- [Advanced React](https://www.advanced-react.com/) with a couple of free [YouTube videos on fundamental topics](https://www.youtube.com/playlist?list=PL6dw1BPCcLC4n-4o-t1kQZH0NJeZtpmGp)
 - [10 ways to better organize and design your React Application](https://thetshaped.dev/p/10-ways-organize-and-design-react-application)
 
