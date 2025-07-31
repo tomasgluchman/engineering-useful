@@ -1,5 +1,31 @@
 # Useful Engineering Resources
 
+## Tech/engineering blogs
+
+- Airbnb – https://medium.com/airbnb-engineering
+- Amazon – https://www.amazon.science/blog
+- Cloudflare – https://blog.cloudflare.com/
+- Databricks – https://www.databricks.com/blog
+- Discord – https://discord.com/blog
+- Dropbox – https://dropbox.tech
+- Etsy – https://codeascraft.com
+- GitHub – https://github.blog
+- Google – https://developers.googleblog.com/en/ 
+- LinkedIn – https://www.linkedin.com/blog/engineering
+- Meta – https://ai.meta.com/blog
+- Netflix – https://netflixtechblog.com/
+- Nvidia – https://developer.nvidia.com/blog
+- OpenAI – https://openai.com/blog
+- Pinterest – https://medium.com/@Pinterest_Engineering
+- Quora – https://quoraengineering.quora.com/
+- Reddit – https://reddit.engineering
+- Shopify – https://shopify.engineering/
+- Slack – https://slack.engineering
+- Spotify – https://engineering.atspotify.com/
+- Stripe – https://stripe.com/blog
+- Uber – https://www.uber.com/en-US/blog/engineering/
+- X – https://x.ai/news
+
 ## Software Development
 
 - [Free Programming eBooks](https://github.com/EbookFoundation/free-programming-books) in many languages
