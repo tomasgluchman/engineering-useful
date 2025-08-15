@@ -34,6 +34,50 @@
 - [Useful resources for becoming a ninja fullstack developer!](https://github.com/FullstackAcademy/useful-resources)
 - [Software Engineering at Google](https://abseil.io/resources/swe-book)
 
+## Coding & architecture
+- [Conventional commits](https://www.conventionalcommits.org/) – a specification for better commit messages
+- [Monorepos](https://monorepo.tools/) – what it is and tools comparison
+- [Cursor rules](https://cursor.directory/) – useful rules/instructions for coding agents &amp; MCP integrations
+- [Open-Source MCP servers](https://glama.ai/mcp/servers)
+
+## Coding Styleguides
+
+### Code Style Guides & Standards
+
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) – The most popular and comprehensive JavaScript style guide, covering nearly every aspect from objects and functions to testing and performance
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) – Google's complete definition of coding standards focusing on style rules (formatting) and language rules (conventions)
+- [JavaScript Standard Style](https://standardjs.com) – A zero-configuration style guide that automatically formats code with minimal configuration options
+- [MDN JavaScript Guidelines](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Code_style_guide/JavaScript) – Mozilla's guidelines for writing concise, understandable JavaScript code examples
+
+### Code Quality & Linting Tools
+
+- [ESLint](https://eslint.org/) – The most comprehensive JavaScript linting tool that identifies problematic patterns and enforces coding standards
+- [Prettier](https://prettier.io/) – An opinionated code formatter that completely rewrites code according to consistent formatting rules
+- [TypeScript](https://react.dev/learn/typescript) – Adds static typing to JavaScript, providing enhanced code safety and predictability
+
+### React-Specific Standards
+
+- [React Rules & Best Practices](https://react.dev/reference/rules) – Official React rules covering component purity, hooks usage, and the fundamental "Rules of React"
+- [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) – Comprehensive React-specific guidelines covering component structure, naming conventions, and JSX formatting
+- [React + TypeScript Style Guide](https://react-typescript-style-guide.com) – Opinionated guide for scalable React + TypeScript applications
+
+### Git Hooks & Automation Tools
+
+- [Husky](https://typicode.github.io/husky/) – Ultra-fast native Git hooks tool for automating code quality checks with pre-commit and pre-push hooks
+- [lint-staged](https://github.com/lint-staged/lint-staged) – Runs linting and formatting tasks only on staged files, making pre-commit hooks faster and more efficient
+- [Conventional Commits](https://www.conventionalcommits.org/) – Lightweight convention for commit messages that enables automated changelog generation
+- [Commitizen](https://commitizen-tools.github.io/commitizen/) – Interactive CLI tool for writing standardized commit messages following conventional commit format
+
+### Integration & Setup Tools
+
+- [Pre-commit Framework](https://pre-commit.com/) – Multi-language package manager for pre-commit hooks, supporting various linting and formatting tools
+- [ESLint + Prettier Integration](https://prettier.io/docs/integrating-with-linters) – Best practices for using ESLint and Prettier together
+
+### Configuration Examples & Boilerplates
+
+- [Frontend Coding Standards Repository](https://github.com/cxpartners/coding-standards) – Comprehensive frontend coding standards covering HTML, CSS, and JavaScript best practices
+- [AIBD TypeScript Guidelines](https://github.com/gergelyszerovay/aibd-coding-guidelines) – Modern TypeScript and React guidelines for AI-boosted development
+
 ## Javascript
 
 - [Addy Osmani: Learning JavaScript Design Patterns](https://github.com/addyosmani/essential-js-design-patterns?tab=readme-ov-file) ebook
