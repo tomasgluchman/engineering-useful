@@ -78,6 +78,10 @@
 - [Frontend Coding Standards Repository](https://github.com/cxpartners/coding-standards) – Comprehensive frontend coding standards covering HTML, CSS, and JavaScript best practices
 - [AIBD TypeScript Guidelines](https://github.com/gergelyszerovay/aibd-coding-guidelines) – Modern TypeScript and React guidelines for AI-boosted development
 
+### Miscellaneous
+
+- [Naming things](https://classnames.paulrobertlloyd.com/) - an inspiration for naming things (HTML classes, CSS properties or JavaScript functions)
+
 ## Javascript
 
 - [Addy Osmani: Learning JavaScript Design Patterns](https://github.com/addyosmani/essential-js-design-patterns?tab=readme-ov-file) ebook
