@@ -39,6 +39,7 @@
 - [Monorepos](https://monorepo.tools/) – what it is and tools comparison
 - [Cursor rules](https://cursor.directory/) – useful rules/instructions for coding agents &amp; MCP integrations
 - [Open-Source MCP servers](https://glama.ai/mcp/servers)
+- [MCP Server Directory](https://www.pulsemcp.com/servers)
 
 ## Coding Styleguides
 
