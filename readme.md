@@ -1,6 +1,6 @@
 # Useful Engineering Resources
 
-## Tech/engineering blogs
+## Big(ger) tech & engineering blogs
 
 - Airbnb – https://medium.com/airbnb-engineering
 - Amazon – https://www.amazon.science/blog
@@ -25,6 +25,13 @@
 - Stripe – https://stripe.com/blog
 - Uber – https://www.uber.com/en-US/blog/engineering/
 - X – https://x.ai/news
+
+### Other engineering blogs and newsletters
+
+- The Polymathic Engineer - https://newsletter.francofernando.com/?r=643nm
+- The T-Shaped Dev - https://thetshaped.dev/
+- Hungry Minds - https://hungrymindsdev.substack.com/
+- Engineering Leadership - https://newsletter.eng-leadership.com/?r=643nm
 
 ## Software Development
 
