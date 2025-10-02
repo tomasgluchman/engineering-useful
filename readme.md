@@ -44,9 +44,18 @@
 ## Coding & architecture
 - [Conventional commits](https://www.conventionalcommits.org/) – a specification for better commit messages
 - [Monorepos](https://monorepo.tools/) – what it is and tools comparison
+
+## AI
+
 - [Cursor rules](https://cursor.directory/) – useful rules/instructions for coding agents &amp; MCP integrations
+- [Cursor IDE rules for AI](https://kirill-markin.com/articles/cursor-ide-rules-for-ai/) - guidelines
+- [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
+
+### MCP Servers
+
 - [Open-Source MCP servers](https://glama.ai/mcp/servers)
 - [MCP Server Directory](https://www.pulsemcp.com/servers)
+- [Remote MCP Servers](https://mcpservers.org/remote-mcp-servers) - a curated list of high quality remote MCP servers
 
 ## Coding Styleguides
 
