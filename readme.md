@@ -2,36 +2,36 @@
 
 ## Big(ger) tech & engineering blogs
 
-- Airbnb – https://medium.com/airbnb-engineering
-- Amazon – https://www.amazon.science/blog
-- Cloudflare – https://blog.cloudflare.com/
-- Databricks – https://www.databricks.com/blog
-- Discord – https://discord.com/blog
-- Dropbox – https://dropbox.tech
-- Etsy – https://codeascraft.com
-- GitHub – https://github.blog
-- Google – https://developers.googleblog.com/en/ 
-- LinkedIn – https://www.linkedin.com/blog/engineering
-- Meta – https://ai.meta.com/blog
-- Netflix – https://netflixtechblog.com/
-- Nvidia – https://developer.nvidia.com/blog
-- OpenAI – https://openai.com/blog
-- Pinterest – https://medium.com/@Pinterest_Engineering
-- Quora – https://quoraengineering.quora.com/
-- Reddit – https://reddit.engineering
-- Shopify – https://shopify.engineering/
-- Slack – https://slack.engineering
-- Spotify – https://engineering.atspotify.com/
-- Stripe – https://stripe.com/blog
-- Uber – https://www.uber.com/en-US/blog/engineering/
-- X – https://x.ai/news
+- [Airbnb](https://medium.com/airbnb-engineering)
+- [Amazon](https://www.amazon.science/blog)
+- [Cloudflare](https://blog.cloudflare.com/)
+- [Databricks](https://www.databricks.com/blog)
+- [Discord](https://discord.com/blog)
+- [Dropbox](https://dropbox.tech)
+- [Etsy](https://codeascraft.com)
+- [GitHub](https://github.blog)
+- [Google](https://developers.googleblog.com/en/ )
+- [LinkedIn](https://www.linkedin.com/blog/engineering)
+- [Meta](https://ai.meta.com/blog)
+- [Netflix](https://netflixtechblog.com/)
+- [Nvidia](https://developer.nvidia.com/blog)
+- [OpenAI](https://openai.com/blog)
+- [Pinterest](https://medium.com/@Pinterest_Engineering)
+- [Quora](https://quoraengineering.quora.com/)
+- [Reddit](https://reddit.engineering)
+- [Shopify](https://shopify.engineering/)
+- [Slack](https://slack.engineering)
+- [Spotify](https://engineering.atspotify.com/)
+- [Stripe](https://stripe.com/blog)
+- [Uber](https://www.uber.com/en-US/blog/engineering/)
+- [X](https://x.ai/news)
 
 ### Other engineering blogs and newsletters
 
-- The Polymathic Engineer - https://newsletter.francofernando.com/?r=643nm
-- The T-Shaped Dev - https://thetshaped.dev/
-- Hungry Minds - https://hungrymindsdev.substack.com/
-- Engineering Leadership - https://newsletter.eng-leadership.com/?r=643nm
+- [The Polymathic Engineer](https://newsletter.francofernando.com/?r=643nm)
+- [The T-Shaped Dev](https://thetshaped.dev/)
+- [Hungry Minds](https://hungrymindsdev.substack.com/)
+- [Engineering Leadership](https://newsletter.eng-leadership.com/?r=643nm)
 
 ## Software Development
 
