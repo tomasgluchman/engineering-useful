@@ -102,6 +102,7 @@
 ## Javascript
 
 - [Addy Osmani: Learning JavaScript Design Patterns](https://github.com/addyosmani/essential-js-design-patterns?tab=readme-ov-file) ebook
+- [JSFuck](https://github.com/aemkei/jsfuck) - JS converter of any expression to just 5 characters (`[]()!+`)
 
 ## React
 
