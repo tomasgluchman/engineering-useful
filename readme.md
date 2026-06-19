@@ -42,6 +42,7 @@
 - [Software Engineering at Google](https://abseil.io/resources/swe-book)
 
 ## Coding & architecture
+- [Patterns.dev](https://www.patterns.dev/) - a free resource on design, rendering, and performance patterns for building web apps
 - [Conventional commits](https://www.conventionalcommits.org/) – a specification for better commit messages
 - [Monorepos](https://monorepo.tools/) – what it is and tools comparison
 
@@ -50,6 +51,7 @@
 - [Cursor rules](https://cursor.directory/) – useful rules/instructions for coding agents &amp; MCP integrations
 - [Cursor IDE rules for AI](https://kirill-markin.com/articles/cursor-ide-rules-for-ai/) - guidelines
 - [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
+- [Agent Skills](https://github.com/addyosmani/agent-skills) - production-grade engineering skills for AI coding agents
 
 ### MCP Servers
 
